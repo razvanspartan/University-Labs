@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <cmath>
 #include <stdio.h>
 #include <stdlib.h>
@@ -42,7 +42,7 @@ z=z+c;
 // TODO: your code here (modify the code to display the mandelbrot
 
 if(iteration == max_its){
-printf( "*");
+printf( "\033[1;33;41m*\033[0m\n";);
 }else{
 printf( "-");
 }
@@ -55,4 +55,4 @@ int main(void)
 display_mandelbrot(100, 25, 100);
 getchar();
 return 0;
-}
+}*/
