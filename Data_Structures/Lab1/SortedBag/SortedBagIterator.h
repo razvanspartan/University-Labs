@@ -11,7 +11,6 @@ private:
 	const SortedBag& bag;
 	SortedBagIterator(const SortedBag& b);
 	int current_index;
-	//TODO - Representation
 
 public:
 	TComp getCurrent();

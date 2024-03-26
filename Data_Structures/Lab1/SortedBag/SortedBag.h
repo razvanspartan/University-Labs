@@ -6,14 +6,16 @@ typedef int TComp;
 typedef TComp TElem;
 typedef bool(*Relation)(TComp, TComp);
 #define NULL_TCOMP -11111;
-#include  <vector>
 class SortedBagIterator;
 
 class SortedBag {
 	friend class SortedBagIterator;
 
 private:
-	std::vector <TComp> elements;
+	TComp* elements;
+    int capacity;
+    int sizea;
+    Relation relation;
 
 public:
 	//constructor
