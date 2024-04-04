@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <cmath>
 #include <stdio.h>
 #include <stdlib.h>
@@ -55,4 +55,4 @@ int main(void)
 display_mandelbrot(100, 25, 100);
 getchar();
 return 0;
-}*/
+}

@@ -1,0 +1,19 @@
+# ninja log v5
+35	358	7328172704796663	CMakeFiles/University_Labs.dir/OOP/Lab1/pb1.c.obj	8097614b3ea5d56d
+67	447	7328172705686653	CMakeFiles/University_Labs.dir/OOP/Lab1/pb4.c.obj	56966cf692400a86
+95	651	7331450444551700	CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/SortedBagIterator.cpp.obj	50712196bf056ada
+50	371	7328172704726648	CMakeFiles/University_Labs.dir/OOP/Lab2/pb1.c.obj	25b185cc7d5e9658
+59	390	7328172704776662	CMakeFiles/University_Labs.dir/OOP/Lab1/pb3.c.obj	dc2e86f38ff1099e
+49	887	7330676502634364	CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/ShortTest.cpp.obj	17ee7ab8b4f30845
+28	403	7328172705236632	CMakeFiles/University_Labs.dir/OOP/Lab1/pb2.c.obj	d11eb0dd222b37ac
+391	554	7328172706476667	CMakeFiles/University_Labs.dir/OOP/Lab3/main.cpp.obj	3e81f7f8403433f3
+5	943	7330676503385349	CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/App.cpp.obj	b624d8bb65a6504a
+26	1058	7331450448630040	CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/ExtendedTest.cpp.obj	eeeb3b7685f26752
+360	1227	7328172713522070	CMakeFiles/University_Labs.dir/OOP/Lab3/method.cpp.obj	90dff8f4e31ea3df
+2	352	7328177856739211	build.ninja	b41dd4c45f1b77ac
+7	828	7331475551249067	CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/SortedBag.cpp.obj	618251c4591b01ed
+829	1028	7331475553206517	University_Labs.exe	4712617b233dfcdd
+5	842	7331476243284904	CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/SortedBag.cpp.obj	618251c4591b01ed
+844	1032	7331476245150925	University_Labs.exe	4712617b233dfcdd
+5	783	7331476496662287	CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/SortedBag.cpp.obj	618251c4591b01ed
+784	945	7331476498221727	University_Labs.exe	4712617b233dfcdd
