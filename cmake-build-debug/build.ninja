@@ -49,40 +49,40 @@ cmake_ninja_workdir = C$:/Users/RazvanSnecherul/CLionProjects/University-Labs/cm
 
 build cmake_object_order_depends_target_University_Labs: phony || CMakeFiles/University_Labs.dir
 
-build CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/App.cpp.obj: CXX_COMPILER__University_Labs_unscanned_Debug C$:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Lab1/SortedBag/App.cpp || cmake_object_order_depends_target_University_Labs
-  DEP_FILE = CMakeFiles\University_Labs.dir\Data_Structures\Lab1\SortedBag\App.cpp.obj.d
+build CMakeFiles/University_Labs.dir/Data_Structures/Labs/SortedSet/App.cpp.obj: CXX_COMPILER__University_Labs_unscanned_Debug C$:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Labs/SortedSet/App.cpp || cmake_object_order_depends_target_University_Labs
+  DEP_FILE = CMakeFiles\University_Labs.dir\Data_Structures\Labs\SortedSet\App.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Lab1/SortedBag -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/OOP/Lab3
+  INCLUDES = -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Labs/SortedBag -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/OOP/Lab3
   OBJECT_DIR = CMakeFiles\University_Labs.dir
-  OBJECT_FILE_DIR = CMakeFiles\University_Labs.dir\Data_Structures\Lab1\SortedBag
+  OBJECT_FILE_DIR = CMakeFiles\University_Labs.dir\Data_Structures\Labs\SortedSet
 
-build CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/ExtendedTest.cpp.obj: CXX_COMPILER__University_Labs_unscanned_Debug C$:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Lab1/SortedBag/ExtendedTest.cpp || cmake_object_order_depends_target_University_Labs
-  DEP_FILE = CMakeFiles\University_Labs.dir\Data_Structures\Lab1\SortedBag\ExtendedTest.cpp.obj.d
+build CMakeFiles/University_Labs.dir/Data_Structures/Labs/SortedSet/ShortTest.cpp.obj: CXX_COMPILER__University_Labs_unscanned_Debug C$:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Labs/SortedSet/ShortTest.cpp || cmake_object_order_depends_target_University_Labs
+  DEP_FILE = CMakeFiles\University_Labs.dir\Data_Structures\Labs\SortedSet\ShortTest.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Lab1/SortedBag -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/OOP/Lab3
+  INCLUDES = -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Labs/SortedBag -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/OOP/Lab3
   OBJECT_DIR = CMakeFiles\University_Labs.dir
-  OBJECT_FILE_DIR = CMakeFiles\University_Labs.dir\Data_Structures\Lab1\SortedBag
+  OBJECT_FILE_DIR = CMakeFiles\University_Labs.dir\Data_Structures\Labs\SortedSet
 
-build CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/ShortTest.cpp.obj: CXX_COMPILER__University_Labs_unscanned_Debug C$:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Lab1/SortedBag/ShortTest.cpp || cmake_object_order_depends_target_University_Labs
-  DEP_FILE = CMakeFiles\University_Labs.dir\Data_Structures\Lab1\SortedBag\ShortTest.cpp.obj.d
+build CMakeFiles/University_Labs.dir/Data_Structures/Labs/SortedSet/ExtendedTest.cpp.obj: CXX_COMPILER__University_Labs_unscanned_Debug C$:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Labs/SortedSet/ExtendedTest.cpp || cmake_object_order_depends_target_University_Labs
+  DEP_FILE = CMakeFiles\University_Labs.dir\Data_Structures\Labs\SortedSet\ExtendedTest.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Lab1/SortedBag -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/OOP/Lab3
+  INCLUDES = -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Labs/SortedBag -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/OOP/Lab3
   OBJECT_DIR = CMakeFiles\University_Labs.dir
-  OBJECT_FILE_DIR = CMakeFiles\University_Labs.dir\Data_Structures\Lab1\SortedBag
+  OBJECT_FILE_DIR = CMakeFiles\University_Labs.dir\Data_Structures\Labs\SortedSet
 
-build CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/SortedBag.cpp.obj: CXX_COMPILER__University_Labs_unscanned_Debug C$:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Lab1/SortedBag/SortedBag.cpp || cmake_object_order_depends_target_University_Labs
-  DEP_FILE = CMakeFiles\University_Labs.dir\Data_Structures\Lab1\SortedBag\SortedBag.cpp.obj.d
+build CMakeFiles/University_Labs.dir/Data_Structures/Labs/SortedSet/SortedSet.cpp.obj: CXX_COMPILER__University_Labs_unscanned_Debug C$:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Labs/SortedSet/SortedSet.cpp || cmake_object_order_depends_target_University_Labs
+  DEP_FILE = CMakeFiles\University_Labs.dir\Data_Structures\Labs\SortedSet\SortedSet.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Lab1/SortedBag -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/OOP/Lab3
+  INCLUDES = -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Labs/SortedBag -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/OOP/Lab3
   OBJECT_DIR = CMakeFiles\University_Labs.dir
-  OBJECT_FILE_DIR = CMakeFiles\University_Labs.dir\Data_Structures\Lab1\SortedBag
+  OBJECT_FILE_DIR = CMakeFiles\University_Labs.dir\Data_Structures\Labs\SortedSet
 
-build CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/SortedBagIterator.cpp.obj: CXX_COMPILER__University_Labs_unscanned_Debug C$:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Lab1/SortedBag/SortedBagIterator.cpp || cmake_object_order_depends_target_University_Labs
-  DEP_FILE = CMakeFiles\University_Labs.dir\Data_Structures\Lab1\SortedBag\SortedBagIterator.cpp.obj.d
+build CMakeFiles/University_Labs.dir/Data_Structures/Labs/SortedSet/SortedSetIterator.cpp.obj: CXX_COMPILER__University_Labs_unscanned_Debug C$:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Labs/SortedSet/SortedSetIterator.cpp || cmake_object_order_depends_target_University_Labs
+  DEP_FILE = CMakeFiles\University_Labs.dir\Data_Structures\Labs\SortedSet\SortedSetIterator.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Lab1/SortedBag -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/OOP/Lab3
+  INCLUDES = -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Labs/SortedBag -IC:/Users/RazvanSnecherul/CLionProjects/University-Labs/OOP/Lab3
   OBJECT_DIR = CMakeFiles\University_Labs.dir
-  OBJECT_FILE_DIR = CMakeFiles\University_Labs.dir\Data_Structures\Lab1\SortedBag
+  OBJECT_FILE_DIR = CMakeFiles\University_Labs.dir\Data_Structures\Labs\SortedSet
 
 
 # =============================================================================
@@ -92,7 +92,7 @@ build CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/SortedBagIte
 #############################################
 # Link the executable University_Labs.exe
 
-build University_Labs.exe: CXX_EXECUTABLE_LINKER__University_Labs_Debug CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/App.cpp.obj CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/ExtendedTest.cpp.obj CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/ShortTest.cpp.obj CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/SortedBag.cpp.obj CMakeFiles/University_Labs.dir/Data_Structures/Lab1/SortedBag/SortedBagIterator.cpp.obj
+build University_Labs.exe: CXX_EXECUTABLE_LINKER__University_Labs_Debug CMakeFiles/University_Labs.dir/Data_Structures/Labs/SortedSet/App.cpp.obj CMakeFiles/University_Labs.dir/Data_Structures/Labs/SortedSet/ShortTest.cpp.obj CMakeFiles/University_Labs.dir/Data_Structures/Labs/SortedSet/ExtendedTest.cpp.obj CMakeFiles/University_Labs.dir/Data_Structures/Labs/SortedSet/SortedSet.cpp.obj CMakeFiles/University_Labs.dir/Data_Structures/Labs/SortedSet/SortedSetIterator.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\University_Labs.dir

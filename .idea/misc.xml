@@ -3,6 +3,7 @@
   <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
   <component name="CidrRootsConfiguration">
     <excludeRoots>
+      <file path="$PROJECT_DIR$/Data_Structures/Labs/SortedBag" />
       <file path="$PROJECT_DIR$/OOP" />
     </excludeRoots>
   </component>

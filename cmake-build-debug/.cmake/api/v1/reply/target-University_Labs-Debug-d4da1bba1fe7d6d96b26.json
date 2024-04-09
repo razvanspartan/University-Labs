@@ -58,7 +58,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Lab1/SortedBag"
+					"path" : "C:/Users/RazvanSnecherul/CLionProjects/University-Labs/Data_Structures/Labs/SortedBag"
 				},
 				{
 					"backtrace" : 3,
@@ -78,9 +78,9 @@
 			[
 				0,
 				1,
-				3,
+				2,
 				5,
-				7
+				8
 			]
 		}
 	],
@@ -119,19 +119,19 @@
 			[
 				0,
 				1,
-				3,
+				2,
 				5,
-				7
+				8
 			]
 		},
 		{
 			"name" : "Header Files",
 			"sourceIndexes" : 
 			[
-				2,
+				3,
 				4,
 				6,
-				8
+				7
 			]
 		}
 	],
@@ -140,52 +140,52 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Data_Structures/Lab1/SortedBag/App.cpp",
+			"path" : "Data_Structures/Labs/SortedSet/App.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Data_Structures/Lab1/SortedBag/ExtendedTest.cpp",
+			"path" : "Data_Structures/Labs/SortedSet/ShortTest.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Data_Structures/Lab1/SortedBag/ExtendedTest.h",
+			"compileGroupIndex" : 0,
+			"path" : "Data_Structures/Labs/SortedSet/ExtendedTest.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Data_Structures/Labs/SortedSet/ExtendedTest.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Data_Structures/Labs/SortedSet/ShortTest.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Data_Structures/Lab1/SortedBag/ShortTest.cpp",
+			"path" : "Data_Structures/Labs/SortedSet/SortedSet.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Data_Structures/Lab1/SortedBag/ShortTest.h",
+			"path" : "Data_Structures/Labs/SortedSet/SortedSet.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Data_Structures/Labs/SortedSet/SortedSetIterator.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Data_Structures/Lab1/SortedBag/SortedBag.cpp",
+			"path" : "Data_Structures/Labs/SortedSet/SortedSetIterator.cpp",
 			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Data_Structures/Lab1/SortedBag/SortedBag.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "Data_Structures/Lab1/SortedBag/SortedBagIterator.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Data_Structures/Lab1/SortedBag/SortedBagIterator.h",
-			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
